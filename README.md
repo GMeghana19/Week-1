@@ -1,2 +1,2 @@
 # Week-1
-Solar power estimation
+Solar power prediction
